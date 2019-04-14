@@ -1,0 +1,5 @@
+Vetices: 1000
+Edges: 1996.
+
+Valido
+Clocks: 1517

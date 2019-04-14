@@ -1,0 +1,5 @@
+Vetices: 100
+Edges: 197.
+
+Valido
+Clocks: 265

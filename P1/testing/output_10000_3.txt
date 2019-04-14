@@ -1,0 +1,5 @@
+Vetices: 10000
+Edges: 19996.
+
+Valido
+Clocks: 24502
