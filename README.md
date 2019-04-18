@@ -15,6 +15,8 @@ Autores:
 - [Duarte David](https://github.com/drcd1)
 - [Margarida Ferreira](https://github.com/Marghrid)
 
+Março 2017
+
 ### P2
 
 Linguagem: C
@@ -27,3 +29,6 @@ Havendo soluções óptimas com o mesmo custo total, devem considerar a soluçã
 Autores:
 - [Duarte David](https://github.com/drcd1)
 - [Margarida Ferreira](https://github.com/Marghrid)
+
+Maio 2017
+
